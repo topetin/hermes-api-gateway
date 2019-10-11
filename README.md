@@ -1,1 +1,1 @@
-# prod-hermes-chat-api
+# Hermes chat - API Gateway
